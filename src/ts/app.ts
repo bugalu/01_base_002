@@ -1,3 +1,2 @@
-let publisher: string = 'office OR-IKEDA';
-publisher = 'ikeda';
-publisher = 'OR';
+export { };
+let author: string = 'office OR-IKEDA';

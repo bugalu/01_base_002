@@ -1,12 +1,11 @@
 # 私的Web制作環境
 - TypeScript版
-- ESLintは保留。typescript-eslintを後日検討。
+- typescript-eslintを後日検討。
 ## gulp4で下記を自動化
 - Pug
 - Sass
 - Autoprefixer
 - CSScomb
 - TypeScript
-- ESLint
 ### Start!
 ローカルにプロジェクトフォルダをクローン後、yarn installするんだ！！！

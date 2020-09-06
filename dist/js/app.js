@@ -1,5 +1,5 @@
-var publisher = 'office OR-IKEDA';
-publisher = 'ikeda';
-publisher = 'OR';
+"use strict";
+exports.__esModule = true;
+var author = 'office OR-IKEDA';
 
 //# sourceMappingURL=app.js.map
