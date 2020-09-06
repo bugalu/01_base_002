@@ -1,0 +1,14 @@
+doctype html
+html(lang="ja")
+  head
+    - const publisher = 'OR-IKEDA';
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title A Website | #{publisher}
+    link(rel="stylesheet" href="css/style.css")
+    script(src="js/main.js" defer)
+  body
+    include ../includes/header.pug
+    block contents
+    include ../includes/footer.pug
+

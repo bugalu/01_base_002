@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.ts"],"names":[],"mappings":"AAAA,IAAI,SAAS,GAAW,iBAAiB,CAAC;AAC1C,SAAS,GAAG,OAAO,CAAC;AACpB,SAAS,GAAG,IAAI,CAAC","file":"app.js","sourcesContent":["let publisher: string = 'office OR-IKEDA';\npublisher = 'ikeda';\npublisher = 'OR';"]}

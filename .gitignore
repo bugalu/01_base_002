@@ -1,0 +1,11 @@
+#機密情報
+.env
+
+#開発に不要
+.DS_Store
+.Trashes
+Thumbs.db
+
+#管理不要
+.vscode/
+node_modules/
